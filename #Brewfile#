@@ -1,4 +1,3 @@
-
 # tap repositories and their packages
 
 tap caskroom/cask
@@ -20,7 +19,6 @@ brew jpeg
 brew libpng
 brew libtiff
 brew lua
-brew mas
 brew nkf
 brew openssl
 brew pcre
@@ -37,6 +35,7 @@ brew swig
 brew vim --with-python3
 brew webp
 brew xz
+brew mas
 
 tap rcmdnk/file
 brew brew-file
