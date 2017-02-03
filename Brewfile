@@ -2,6 +2,7 @@
 # tap repositories and their packages
 
 tap caskroom/cask
+cask skim
 cask xquartz
 
 tap homebrew/boneyard
@@ -34,7 +35,7 @@ brew readline
 brew sip --with-python3
 brew sqlite
 brew swig
-brew vim --with-python3
+brew vim --with-python3 --with-lua
 brew webp
 brew xz
 
