@@ -5,6 +5,7 @@ tap argon/mas
 brew mas
 
 tap caskroom/cask
+cask bettertouchtool
 cask skim
 cask xquartz
 
@@ -71,18 +72,19 @@ brew webp
 brew wget
 brew wine
 brew winetricks
-brew xz --universal
+brew xz
 
 tap rcmdnk/file
 brew brew-file
 
 # App Store applications
-appstore 406056744 Evernote (6.7.1)
-appstore 1127487414 Install macOS Sierra (12.2.04)
-appstore 409183694 Keynote (6.6.1)
-appstore 539883307 LINE (4.6.2)
-appstore 409203825 Numbers (3.6.1)
-appstore 823766827 OneDrive (17.3.6389)
-appstore 409201541 Pages (5.6.1)
+appstore 406056744 Evernote (6.10)
+appstore 682658836 GarageBand (10.1.6)
+appstore 408981434 iMovie (10.1.4)
+appstore 409183694 Keynote (7.0.5)
+appstore 539883307 LINE (4.11.1)
+appstore 409203825 Numbers (4.0.5)
+appstore 823766827 OneDrive (17.3.6783)
+appstore 409201541 Pages (6.0.5)
 appstore 850201890 Scene Connect (1.2)
 appstore 425424353 The Unarchiver (3.11.1)
