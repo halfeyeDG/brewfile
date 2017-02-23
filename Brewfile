@@ -6,6 +6,7 @@ brew mas
 
 tap caskroom/cask
 cask bettertouchtool
+cask mactex
 cask skim
 cask xquartz
 
