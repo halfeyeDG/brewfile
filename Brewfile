@@ -9,7 +9,6 @@ cask bettertouchtool
 cask mactex
 cask skim
 cask xquartz
-cask mactex
 
 tap homebrew/boneyard
 
