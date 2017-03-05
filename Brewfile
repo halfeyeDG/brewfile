@@ -6,8 +6,10 @@ brew mas
 
 tap caskroom/cask
 cask bettertouchtool
+cask gimp
 cask mactex
 cask skim
+cask skype
 cask xquartz
 
 tap homebrew/boneyard
