@@ -6,6 +6,7 @@ brew mas
 
 tap caskroom/cask
 cask bettertouchtool
+cask java
 cask skim
 cask xquartz
 
@@ -65,6 +66,7 @@ brew sip --with-python3
 brew sox --with-lame --with-flac --with-libvorbis
 brew sqlite
 brew swig
+brew tika
 brew unrar
 brew vim --with-python3 --with-lua
 brew vorbis-tools
